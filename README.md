@@ -1,7 +1,8 @@
 # Shh0yaKit
 - Analyze tool for windows reverser
 
-## ※ Additional features may or may not be publicly available depending on circumstances and potential for exploitation
+### ※ Additional features may or may not be publicly available depending on circumstances and potential for exploitation
+### To use or not to use is up to you.
 
 ## [0x00] Features
 ### Process Information(Shortcut : F2)
