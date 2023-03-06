@@ -6,3 +6,5 @@
 ### To use or not to use is up to you.
 
 ### [Detail Wiki](https://github.com/Shhoya/Shh0yaTool/wiki)
+
+### This tool has stopped update. But I'll update again soon.
